@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(221, 221, 221);
+}
+#grid-container {
+    background-color: white;
+    display: grid;
+    width: 60%;
+    place-items: center;
+    /* justify-content: center; */
+    margin: 0 auto;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 5fr 1fr;
+}
+.fas, .far{
+    margin: 20px;
+    color: rgb(182, 181, 181);
+    font-size: 24px;
+}
+.top {
+    justify-self: end;
+}
+#post {
+    grid-column: 1/-1;
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    object-position: center 70%;
+}
+.bottom {
+    display
+
+}

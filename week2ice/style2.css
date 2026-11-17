@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(144, 143, 179);
+    margin = 0;
+}
+h1 {
+    background-color:bisque;
+    font-size: 46px;
+}
+h2 {
+    color:chocolate;
+}
+#beginning {
+    color: chartreuse;
+}
+.blueberry {
+    color: blue;
+}
+main {
+    background-color: black;
+}

@@ -1,0 +1,94 @@
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+nav a {
+    text-align: center;
+    color: #333333
+}
+
+#hero-msg h1, #hero-msg h4 {
+    text-align: center;
+}
+
+.button-box {
+    text-align: center;
+}
+
+main section {
+    text-align: center;
+}
+
+#background {
+    height: 725px;
+    background-color: #e0e0e0;
+}
+
+body {
+    background-color: #080808;
+}
+
+header {
+    background-color: rgba(46, 46, 46, 0.7); /* slight transparency */
+}
+
+nav a:hover {
+    background-color: #3b2f2f;
+    color: #ffffff; /* keeps text readable on a dark background */
+}
+
+.book, .join {
+    background-color: #3b2a2d;
+    color: #ffffff;
+}
+
+.book:hover, .join:hover {
+    background-color: #302a2a; /* slightly darker on hover */
+    color: #333333
+}
+
+.msg {
+    background-color: #363030;
+}
+
+footer {
+    background-color: #583e3e;
+    color: #fcf9f9;
+}
+
+.home-title {
+  color: #2b580c; /* your heading/accent color */
+}
+
+h4 {
+  color: #2b580c; /* your sub-heading color */
+}
+
+.msg h2 {
+  color: #2b580c; /* message box title color */
+}
+
+.msg p {
+  color: #333333; /* readable paragraph text color */
+}
+
+footer a {
+  color: #ffffff; /* links inside the footer */
+}
+
+footer a:hover {
+  color: #e0e0e0; /* hover color for footer links */
+}
+
+.logo {
+  width: 80px;
+}
+
+.icon {
+  width: 80px;
+}
+
+#hero-img {
+  width: 100%;
+}

@@ -1,0 +1,22 @@
+body {
+  background-color: pink;
+}
+
+.logo {
+  width: 80px;
+}
+
+header {
+    display:grid;
+    grid-template-columns: 1fr 6fr;
+    gap: 20px;
+}
+
+main {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.image {
+    width: 200px;
+}

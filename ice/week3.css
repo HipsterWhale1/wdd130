@@ -1,0 +1,33 @@
+body {
+    background-color: grey;
+}
+.bordered {
+    background-color: aliceblue;
+    border: dashed 2px black;
+    margin:30px;
+    padding: 20px;
+    width: 500px;
+    box-sizing: border-box;
+}
+.red {
+    h2 {
+        color:purple;
+    }
+    color: red;
+    padding-top: 50px;
+}
+.hoverer {
+    display: inline;
+}
+.hoverer:hover {
+    color:cadetblue;
+}
+span {
+    background-color: rgb(95, 104, 105);
+    display: inline;
+}
+.eyebleed {
+    color: blue;
+    background-color: black;
+    padding-top: 20px;
+}
